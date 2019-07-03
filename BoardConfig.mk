@@ -22,7 +22,7 @@ TARGET_BOOTLOADER_BOARD_NAME := Argon
 
 # Recovery
 TARGET_USERIMAGES_USE_EXT4 := true
-PRODUCT_COPY_FILES += device/Nokia/8110/twrp.fstab:recovery/root/etc/twrp.fstab
+PRODUCT_COPY_FILES += device/Nokia/Argon/twrp.fstab:recovery/root/etc/twrp.fstab
 BOARD_RECOVERYIMAGE_PARTITION_SIZE := 26214400
 BOARD_FLASH_BLOCK_SIZE := 0
 BOARD_HAS_NO_REAL_SDCARD := true
