@@ -15,8 +15,8 @@
 #
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
-PRODUCT_DEVICE := 8110
-PRODUCT_NAME := omni_8110
+PRODUCT_DEVICE := Argon
+PRODUCT_NAME := omni_Argon
 PRODUCT_BRAND := Nokia
-PRODUCT_MODEL := Nokia 8110 4G
+PRODUCT_MODEL := TA-1059
 PRODUCT_MANUFACTURER := nokia
