@@ -1,5 +1,4 @@
 #
-# Copyright (C) 2018 The TwrpBuilder Open-Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,6 +13,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/Nokia/8110/
+LOCAL_PATH := device/Nokia/Argon/
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_8110.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_Argon.mk
