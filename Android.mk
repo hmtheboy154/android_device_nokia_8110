@@ -16,7 +16,7 @@
 
 ifneq ($(filter nokia_8110_4g,$(TARGET_DEVICE)),)
 
-LOCAL_PATH := device/Nokia/8110/
+LOCAL_PATH := device/Nokia/Argon/
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
