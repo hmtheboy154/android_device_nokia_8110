@@ -27,4 +27,4 @@
 #  IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
-add_lunch_combo 8110
+add_lunch_combo nokia_Argon
