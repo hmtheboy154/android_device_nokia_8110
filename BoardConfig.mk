@@ -39,7 +39,7 @@ TARGET_RECOVERY_FSTAB := device/Nokia/Argon/rootdir/etc/recovery.fstab
 TARGET_PLATFORM_DEVICE_BASE := /devices/soc.0/
 BOARD_HAS_LOW_RESOLUTION := true
 TARGET_COMMON_NAME := Argon
-
+BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_10x18.h\"
 
 
 #kernel
